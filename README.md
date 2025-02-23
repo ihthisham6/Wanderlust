@@ -5,6 +5,7 @@ Key Features
 User Authentication: Secure sign-up, login, and account management functionalities for both travelers and hosts.
 Accommodation Listings: Hosts can list their properties, complete with details such as location, price, and amenities.
 User Reviews & Ratings: Travelers can leave reviews and rate their accommodations after staying.
+
 Tech Stack
 Frontend:
 EJS for templating
@@ -15,6 +16,7 @@ Node.js and Express for server-side logic and routing
 MongoDB for data storage
 Cloud Storage: Integration with Cloudinary for image uploads
 Authentication: JWT-based user authentication for secure sessions
+
 Project Structure
 controllers: Contains logic for managing routes and handling requests
 models: Defines data models for users, accommodation listings, and reviews
@@ -36,4 +38,5 @@ npm install
 
 4.Start the application:
 npm start
-Navigate to http://localhost:3000 to access the platform locally.
+
+5.Navigate to http://localhost:3000 to access the platform locally.
