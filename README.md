@@ -36,6 +36,7 @@ Authentication:
 🔐JWT-based user authentication for secure sessions
 
 
+
 🗂️ Project Structure
 
 controllers: Contains logic for managing routes and handling requests
@@ -51,6 +52,8 @@ views: Contains all views rendered via EJS templates
 public: Stores static files like images, CSS, and JavaScript
 
 app.js: Main application file to initialize the server and middleware
+
+
 
 🚀Getting Started
 
