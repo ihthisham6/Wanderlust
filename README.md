@@ -1,10 +1,9 @@
 Wanderlust - Full-Stack Web Application for Discovering Accommodations
 
 Wanderlust is a full-stack web application that allows users to discover and list unique accommodations from around the world. The platform is designed to offer a simple and effective way for hosts to share their
-
 properties and for travelers to explore various accommodation options.
 
-Key Features
+🌟Key Features
 
 User Authentication: Secure sign-up, login, and account management functionalities for both travelers and hosts.
 
@@ -16,38 +15,43 @@ Tech Stack
 
 Frontend:
 
-EJS for templating
+🖥️ EJS for templating
 
-HTML, CSS for responsive and interactive UI
+🎨 HTML, CSS for responsive and interactive UI
 
-JavaScript for front-end logic and dynamic page updates
+⚡ JavaScript for front-end logic and dynamic page updates
 
 Backend:
-Node.js and Express for server-side logic and routing
 
-MongoDB for data storage
+🔥 Node.js and Express for server-side logic and routing
 
-Cloud Storage: Integration with Cloudinary for image uploads
+💾 MongoDB for data storage
 
-Authentication: JWT-based user authentication for secure sessions
+Cloud Storage: 
 
-Project Structure
+☁️ Integration with Cloudinary for image uploads
+
+Authentication:
+
+🔐JWT-based user authentication for secure sessions
+
+🗂️ Project Structure
 
 controllers: Contains logic for managing routes and handling requests
 
 models: Defines data models for users, accommodation listings, and reviews
 
-routes: Manages API routing for different user actions
+routes: Manages API routing for various user actions
 
 utils: Utility functions to assist with common tasks like validation
 
-views: Contains all the views rendered via EJS templates
+views: Contains all views rendered via EJS templates
 
 public: Stores static files like images, CSS, and JavaScript
 
-app.js: Main application file to initialize server and middleware
+app.js: Main application file to initialize the server and middleware
 
-Getting Started
+🚀Getting Started
 
 1.Clone the repository:
 
