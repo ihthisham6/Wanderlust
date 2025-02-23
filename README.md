@@ -35,6 +35,7 @@ Authentication:
 
 🔐JWT-based user authentication for secure sessions
 
+
 🗂️ Project Structure
 
 controllers: Contains logic for managing routes and handling requests
