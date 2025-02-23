@@ -27,7 +27,7 @@ public: Stores static files like images, CSS, and JavaScript
 app.js: Main application file to initialize server and middleware
 
 Getting Started
-1. Clone the repository:
+1.Clone the repository:
 git clone https://github.com/ihthisham6/Wanderlust.git
 cd Wanderlust
 
